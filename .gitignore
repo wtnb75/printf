@@ -3,3 +3,6 @@ nimcache
 *.pyo
 a.out
 printf
+*.exe
+*.class
+*.swp
