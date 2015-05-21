@@ -1,0 +1,5 @@
+nimcache
+*.pyc
+*.pyo
+a.out
+printf
