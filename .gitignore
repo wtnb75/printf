@@ -1,6 +1,8 @@
 nimcache
 *.pyc
 *.pyo
+*.o
+*.hi
 a.out
 printf
 *.exe
