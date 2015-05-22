@@ -1,4 +1,4 @@
 BEGIN{
-  printf("%#x %#x\n", 0, 1);
+  printf("%#x %#x %#o %#o\n", 0, 1, 0, 1);
   exit(0);
 }

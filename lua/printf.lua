@@ -1,1 +1,1 @@
-print(string.format("%#x %#x", 0, 1))
+print(string.format("%#x %#x %#o %#o", 0, 1, 0, 1))
