@@ -25,7 +25,10 @@
 - OSX Yosemite awk(20070501)
 - Haskell(7.10.1)
 - Emacs Lisp(GNU Emacs 24.5.1)
+- busybox printf(1.15.1)
+- GNU coreutils printf(8.4, 8.22)
 
 # does not support "%#x"
 
 - PHP(5.5.20)
+- Node.js(v0.12.2, util.format)
