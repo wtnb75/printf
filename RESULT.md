@@ -7,6 +7,8 @@
 - Rust(1.0.0)
 - Java(1.8.0_45)
 - Scala(2.11.6)
+- Node-printf(node.js + https://github.com/wdavidw/node-printf)
+- Julia(0.3.8)
 
 # Group "0"
 
@@ -22,6 +24,7 @@
 - OSX Yosemite /usr/bin/printf
 - OSX Yosemite awk(20070501)
 - Haskell(7.10.1)
+- Emacs Lisp(GNU Emacs 24.5.1)
 
 # does not support "%#x"
 
