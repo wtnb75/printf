@@ -1,4 +1,6 @@
-# Group "0x0"
+# Hex(%#x)
+
+## Group "0x0"
 
 - Python(2.7.9), PyPy(2.5.1), Python(3.4.2)
 - Clojure (1.6.0)
@@ -10,7 +12,7 @@
 - Node-printf(node.js + https://github.com/wdavidw/node-printf)
 - Julia(0.3.8)
 
-# Group "0"
+## Group "0"
 
 - clang(Apple LLVM version 6.1.0)
 - gcc(Homebrew gcc 5.1.0)
@@ -27,8 +29,16 @@
 - Emacs Lisp(GNU Emacs 24.5.1)
 - busybox printf(1.15.1)
 - GNU coreutils printf(8.4, 8.22)
+- boost::format(1.58.0)
+- Dlang(2.067.0)
 
-# does not support "%#x"
+## does not support
 
 - PHP(5.5.20)
 - Node.js(v0.12.2, util.format)
+
+# Oct(%#o)
+
+## Group "00"
+
+## Group "0"
