@@ -1,3 +1,6 @@
+[IEEE printf](http://pubs.opengroup.org/onlinepubs/9699919799/functions/printf.html) says:
+> For o conversion, it increases the precision (if necessary) to force the first digit of the result to be zero. For x or X conversion specifiers, a non-zero result shall have 0x (or 0X) prefixed to it. For a, A, e, E, f, F, g , and G conversion specifiers, the result shall always contain a radix character, even if no digits follow the radix character. Without this flag, a radix character appears in the result of these conversions only if a digit follows it. For g and G conversion specifiers, trailing zeros shall not be removed from the result as they normally are. For other conversion specifiers, the behavior is undefined.
+
 # Hex(%#x)
 
 ## Group "0x0"
@@ -50,3 +53,7 @@
 ## Group "00"
 
 ## Group "0"
+
+## Group "0o0"
+
+- Rust(1.0.0)
