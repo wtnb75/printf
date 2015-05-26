@@ -2,7 +2,7 @@
 
 ## Group "0x0"
 
-- Python(2.7.9), PyPy(2.5.1), Python(3.4.2)
+- Python(2.7.9), PyPy(2.5.1), Python(3.4.2), Cython
 - Clojure (1.6.0)
 - Golang(go1.4.2)
 - Gauche(0.9.4)+SLIB(3b5)
@@ -11,6 +11,9 @@
 - Scala(2.11.6)
 - Node-printf(node.js + https://github.com/wdavidw/node-printf)
 - Julia(0.3.8)
+- Hive
+- Tcl(8.4, 8.5, 8.6)
+- Groovy
 
 ## Group "0"
 
@@ -31,6 +34,10 @@
 - GNU coreutils printf(8.4, 8.22)
 - boost::format(1.58.0)
 - Dlang(2.067.0)
+- GNU m4(1.4.6)
+- R
+- Octave
+- Gnuplot
 
 ## does not support
 
