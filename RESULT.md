@@ -41,12 +41,14 @@
 - R
 - Octave
 - Gnuplot
+- Ocaml(4.02.1)
 
 ## does not support
 
 - PHP(5.5.20)
 - Node.js(v0.12.2, util.format)
 - C#(mono 4.0.1)
+- Pike(v7.8)
 
 # Oct(%#o)
 
