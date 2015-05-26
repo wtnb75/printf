@@ -2,7 +2,7 @@
 
 ## Group "0x0"
 
-- Python(2.7.9), PyPy(2.5.1), Python(3.4.2), Cython
+- Python(2.7.9), PyPy(2.5.1), Python(3.4.2), Cython, Jython(2.7.0)
 - Clojure (1.6.0)
 - Golang(go1.4.2)
 - Gauche(0.9.4)+SLIB(3b5)
