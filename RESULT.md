@@ -43,6 +43,7 @@
 
 - PHP(5.5.20)
 - Node.js(v0.12.2, util.format)
+- C#(mono 4.0.1)
 
 # Oct(%#o)
 
