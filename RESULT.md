@@ -42,7 +42,7 @@
 - Octave
 - Gnuplot
 - Ocaml(4.02.1)
-- Apple Swift(NSString)
+- Apple Swift
 
 ## does not support
 
