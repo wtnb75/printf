@@ -10,7 +10,7 @@ run_c(){
   local fn=$1
   local compiler
   for compiler in gcc gcc-5; do
-    $compiler -o ${fn}.exe ${fn}
+    $compiler -o ${fn}.exe ${fn} || continue
     echo -n ${fn} $(./${fn}.exe)' '
     rm ./${fn}.exe
     $compiler -v 2>&1 | grep -w version
@@ -21,7 +21,7 @@ run_cpp(){
   local fn=$1
   local compiler
   for compiler in g++ g++-5; do
-    $compiler -o ${fn}.exe ${fn}
+    $compiler -o ${fn}.exe ${fn} $LIBS || continue
     echo -n ${fn} $(./${fn}.exe)' '
     rm ./${fn}.exe
     $compiler -v 2>&1 | grep -w version

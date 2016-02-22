@@ -14,9 +14,9 @@
 - Scala(2.11.6)
 - Node-printf(node.js + https://github.com/wdavidw/node-printf)
 - Julia(0.3.8)
-- Hive
+- Hive(1.1.0)
 - Tcl(8.4, 8.5, 8.6)
-- Groovy
+- Groovy(2.4.3)
 
 ## Group "0"
 
@@ -38,9 +38,9 @@
 - boost::format(1.58.0)
 - Dlang(2.067.0)
 - GNU m4(1.4.6)
-- R
-- Octave
-- Gnuplot
+- R(3.1.3)
+- Octave(3.8.2)
+- Gnuplot(5.0 patchlevel 0)
 - Ocaml(4.02.1)
 - Apple Swift
 
